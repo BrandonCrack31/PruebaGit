@@ -12,4 +12,3 @@ if entrada_1 == "Piramide Superior":
     for fila in range(entrada_2):
         for columna in range(entrada_2 - fila):
             print(entrada_3, end="")
-        print()
